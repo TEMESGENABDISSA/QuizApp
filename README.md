@@ -1,4 +1,4 @@
-  #Introducing QuizApp: 
+# Introducing QuizApp: 
 An interactive quiz application crafted to deepen your knowledge of HTML, CSS, and JavaScript. 
 Tailored for learners at every stage, this platform transforms web development education into an enjoyable and effective experience.
 With a focus on educational content, QuizApp is an invaluable resource for mastering JavaScript and CSS.
